@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Passerby-W
 - 👀 I’m interested in computer science
-- 🌱 I’m currently learning NLP
+- 🌱 I’m a NLP engineer 
 
 
 <!---
